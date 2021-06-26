@@ -1,0 +1,26 @@
+a:hover{
+    background-color:blue;
+}
+a{
+    color: white;
+}
+body{
+    background-image: url(/ytaloazeredo.github.io/img/jojo2.gif);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    margin:50px;
+}
+main{
+    background-color: rgba(128, 128, 128, 0.507);
+}
+li{
+    background-color: rgba(0, 0, 0, 0.555);
+    display: inline;
+}
+footer{
+    background-color: rgba(0, 0, 0, 0.486);
+}
+h1, h2, h3{
+    color: rgba(255, 255, 255, 0.932);
+}
